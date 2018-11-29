@@ -1,0 +1,9 @@
+name: segy_reader
+channels:
+- conda-forge
+dependencies:
+- python=3
+- ipykernel
+- numpy
+- matplotlib
+- seaborn
